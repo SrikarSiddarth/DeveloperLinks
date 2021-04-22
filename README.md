@@ -9,3 +9,4 @@
 8) https://github.com/trekhleb/javascript-algorithms
 9) https://github.com/kamranahmedse/developer-roadmap
 10) https://github.com/TheAlgorithms
+11) https://scipy.org/topical-software.html
